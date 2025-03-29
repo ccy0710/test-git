@@ -3,6 +3,7 @@
 		onLaunch: function() {
 			console.log('App Launch')
 			console.log('add dev')
+			console.log('update data')
 		},
 		onShow: function() {
 			console.log('App Show')
