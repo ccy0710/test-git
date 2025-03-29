@@ -5,6 +5,7 @@
 			console.log('add dev')
 			console.log('add feature-build')
 			console.log('dev-update')
+			console.log('feature-updates')
 		},
 		onShow: function() {
 			console.log('App Show')
