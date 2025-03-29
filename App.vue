@@ -3,7 +3,7 @@
 		onLaunch: function() {
 			console.log('App Launch')
 			console.log('add dev')
-			console.log('update data')
+			console.log('add feature-build')
 		},
 		onShow: function() {
 			console.log('App Show')
