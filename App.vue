@@ -6,6 +6,7 @@
 			console.log('add feature-build')
 			console.log('dev-update')
 			console.log('feature-updates')
+			console.log('0000-f-update')
 		},
 		onShow: function() {
 			console.log('App Show')
